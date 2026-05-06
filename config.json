@@ -1,0 +1,13 @@
+{
+  "all_pairs_threshold": 80,
+  "delivery_time_weight": -1.0,
+  "sla_weight": 1.4,
+  "fairness_weight": 0.8,
+  "priority_weights": {
+    "high": 40.0,
+    "normal": 15.0,
+    "low": 0.0
+  },
+  "rating_weight": 2.0,
+  "active_order_penalty": 8.0
+}
